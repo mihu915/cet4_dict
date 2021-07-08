@@ -13,5 +13,5 @@
 > http://dict.youdao.com/dictvoice?type=音频类型&audio=单词    
 > 请求方法：get   
 > type=0 : 美音   
-> type=1 : 英音
+> type=1 : 英音   
 > audio : 单词
