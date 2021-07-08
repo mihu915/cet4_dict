@@ -2,8 +2,8 @@
 > cet4_word: 单词   
 > cet4_phonetic: 音标   
 > cet4_translate: 词义   
-> cet4_distortion: 词形式
-> cet4_phrase: 短语
+> cet4_distortion: 词形式   
+> cet4_phrase: 短语   
 > cet4_samples: 例句
 > 
 > 
